@@ -80,26 +80,6 @@ This project delivers a **3-page Power BI people-analytics dashboard** built to 
 
 ---
 
-## 📁 Repository Structure
-
-```
-HR_Workforce_Analytics_Dashboard_Power_BI/
-│
-├── 📊 HR_Workforce_Analytics_Dashboard.pbix   # Main Power BI Report File
-│
-├── 📂 Screenshots/                            # Dashboard Preview Images
-│   ├── ModelView.png
-│   ├── Page1.png
-│   ├── Page2.png
-│   └── Page3.png
-│
-└── README.md
-```
-
-> ℹ️ Raw source data was provided as an internal HR employee dataset and is not published in this repository for privacy reasons. The `.pbix` file contains the full data model, all transformations, and DAX logic.
-
----
-
 ## 🗄️ Data Model
 
 The report is built on a relational model centered around a single fact-like hub table, **EmployeeMaster**, connected to five supporting tables:
