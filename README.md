@@ -268,8 +268,8 @@ All KPIs in this report are powered by a dedicated **`_Measures`** table contain
     <img src="https://img.shields.io/badge/GitHub-HarshalVora86-181717?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/harshal-vora">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/harshal-vora-344601251">   
+ <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
