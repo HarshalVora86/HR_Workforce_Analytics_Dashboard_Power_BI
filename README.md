@@ -20,6 +20,12 @@ This project delivers a **3-page Power BI people-analytics dashboard** built to 
 > 💡 *Designed to turn raw HR transactional data into a single source of truth for headcount planning, retention strategy, and compensation review.*
 
 ---
+## 🎥 Project Overview
+
+🎬 Full walkthrough video → [Watch HR_Workforce_Analytics_Dashboard.mp4](https://drive.google.com/file/d/1CXA7hJQwpJrOLoKGdUBYeSvG6XpN8ENF/view?usp=sharing)
+
+
+---
 
 ## 📸 Dashboard Preview
 
