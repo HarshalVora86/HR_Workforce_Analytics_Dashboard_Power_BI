@@ -284,8 +284,3 @@ All KPIs in this report are powered by a dedicated **`_Measures`** table contain
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2C3E70&height=100&section=footer&fontColor=white"/>
 </p>
-
-<p align="center">
-  ⭐ <b>If this project helped you, please give it a star!</b> ⭐<br/>
-  <i>Built with ❤️ by Harshal Vora | Powered by Power BI</i>
-</p>
