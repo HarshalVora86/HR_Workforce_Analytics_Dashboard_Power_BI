@@ -191,21 +191,21 @@ All KPIs in this report are powered by a dedicated **`_Measures`** table contain
 ## 💡 Key Insights Uncovered
 
 ### Workforce Overview
-- 🏭 **Production** is by far the largest department with **17.0K active employees**, followed by IT/IS (3.5K) and Sales (2.7K)
-- 👩‍💼 The workforce skews slightly female at **55.83%**
-- 📊 Nearly half the workforce (**48.02%**) falls into the "Experienced" career level band
-- 💲 Average tenure stands at **5.42 years**, with a substantial training investment of **$2.79 Cr**
+-  **Production** is by far the largest department with **17.0K active employees**, followed by IT/IS (3.5K) and Sales (2.7K)
+-  The workforce skews slightly female at **55.83%**
+-  Nearly half the workforce (**48.02%**) falls into the "Experienced" career level band
+-  Average tenure stands at **5.42 years**, with a substantial training investment of **$2.79 Cr**
 
 ### Attrition Analysis
-- 📈 New hire volume has grown sharply, with **YoY growth of 134.18%** in the most recent period
-- 🚨 **Admin Offices** has the highest department-level attrition rate at **27.19%**, nearly 3x higher than IT/IS (9.53%) — a clear retention red flag
-- 🗓️ Hiring is heavily back-loaded in the year, peaking in **September (9.1K)** and **March (9.9K)**
-- ⚠️ **1,050 employees** were terminated, pushing YTD attrition to **21.67%**
+-  New hire volume has grown sharply, with **YoY growth of 134.18%** in the most recent period
+-  **Admin Offices** has the highest department-level attrition rate at **27.19%**, nearly 3x higher than IT/IS (9.53%) — a clear retention red flag
+-  Hiring is heavily back-loaded in the year, peaking in **September (9.1K)** and **March (9.9K)**
+-  **1,050 employees** were terminated, pushing YTD attrition to **21.67%**
 
 ### Compensation & Training
-- ⚖️ Salary distribution is perfectly balanced — exactly **50% above and 50% below** the organization average
-- 🏭 **Production** absorbs the largest share of training budget at **$19M**, dwarfing every other department combined
-- 📋 Performance ratings show **"Meets Expectations"** as the dominant category (12,605 of 24,554 employees), with Production driving the bulk of both top and bottom performance bands
+-  Salary distribution is perfectly balanced — exactly **50% above and 50% below** the organization average
+-  **Production** absorbs the largest share of training budget at **$19M**, dwarfing every other department combined
+-  Performance ratings show **"Meets Expectations"** as the dominant category (12,605 of 24,554 employees), with Production driving the bulk of both top and bottom performance bands
 
 ---
 
